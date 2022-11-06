@@ -1,6 +1,6 @@
 # Alura Store
 
-Projeto da formação Front-End da Alura
+Projeto de formação Front-End da Alura, com foco na prática de Grid no CSS e um pouco de responsividade.
 
 
 
